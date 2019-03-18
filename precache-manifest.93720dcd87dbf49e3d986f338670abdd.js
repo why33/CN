@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/static/media/music.5eb60333.svg"
   },
   {
-    "revision": "413118c56fc492fa8ba42420438d5154",
+    "revision": "62f987942bfc758febef36521df591a5",
     "url": "/index.html"
   }
 ];
